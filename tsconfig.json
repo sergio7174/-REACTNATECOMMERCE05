@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {},
+  "extends": "expo/tsconfig.base",
+  "include": [
+        "src/**/*.ts",
+        "src/**/*.tsx",
+        "./**/*.d.ts",
+        "./declarations.d.ts",
+        "src/**/*.d.ts" // or "types/**/*.d.ts" if in a types folder
+      ]
+}
