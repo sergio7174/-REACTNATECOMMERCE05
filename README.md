@@ -1,6 +1,6 @@
 <h1 align ="center" > 🖥️ 📸 📱 🤖 - React-Native-Coffee Ecommerce 05  </h1>
 <h3  align ="center"> 
-A boilerplate for a Ecommerce mobile app using React Native and Redux-toolkit, Firebase Auth. IOs and Android, Backend Data From Firebase Storage Database </h3>
+A boilerplate for a Ecommerce Coffee mobile app using React Native and Redux-toolkit, Firebase Auth. IOs and Android, Backend Data From Firebase Storage Database </h3>
 <br>
 
   * [Configuration and Setup](#configuration-and-setup)
@@ -28,7 +28,7 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 ## ✔️ Tecnologias Utilizadas:
 ![Static Badge](https://img.shields.io/badge/TypeScript-%236897B6?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/react%20native-%2385C7F2?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/ReactContext-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Redux-toolkit-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Styled%20Components-%23D1D1D1?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/expo-%23E89F28?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/axios-%23D1D1D1?style=for-the-badge)
